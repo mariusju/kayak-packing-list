@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kayak-packing-list/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kayak-packing-list/static/js/main.13fb13da.chunk.js",
+    "main.js.map": "/kayak-packing-list/static/js/main.13fb13da.chunk.js.map",
+    "runtime-main.js": "/kayak-packing-list/static/js/runtime-main.5bf756af.js",
+    "runtime-main.js.map": "/kayak-packing-list/static/js/runtime-main.5bf756af.js.map",
+    "static/js/2.82fcef9b.chunk.js": "/kayak-packing-list/static/js/2.82fcef9b.chunk.js",
+    "static/js/2.82fcef9b.chunk.js.map": "/kayak-packing-list/static/js/2.82fcef9b.chunk.js.map",
+    "index.html": "/kayak-packing-list/index.html",
+    "precache-manifest.d9452cbbc41fd8cb4870fa6f5bd05a26.js": "/kayak-packing-list/precache-manifest.d9452cbbc41fd8cb4870fa6f5bd05a26.js",
+    "service-worker.js": "/kayak-packing-list/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kayak-packing-list/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.82fcef9b.chunk.js.LICENSE.txt": "/kayak-packing-list/static/js/2.82fcef9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf756af.js",
+    "static/js/2.82fcef9b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.13fb13da.chunk.js"
+  ]
+}
